@@ -6,7 +6,7 @@
 - Implement response generation with context-aware answers
 - Include basic error handling for unsupported queries
 
-2)Family Medical Document Assistant - RAG
+2) Family Medical Document Assistant - RAG
   Overview 
   Secure RAG system for managing family health records with military-grade encryption and granular access controls.
 
